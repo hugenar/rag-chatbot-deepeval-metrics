@@ -1,5 +1,5 @@
 Things you need to run this program:
-1. OpenAI API Key, this will go in the .env file
+1. OpenAI API Key, this will go in a .env file
 2. All of the required libraries
 
 It is recommended to initialize a virtual environment and use the requirements.txt file to install the corresponding libraries.
